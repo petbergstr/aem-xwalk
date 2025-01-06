@@ -1,5 +1,5 @@
 mountpoints:
-  /:
+  /asd/:
     url: "https://author-p65004-e722653.adobeaemcloud.com/bin/franklin.delivery/petbergstr/aem-xwalk/main"
     type: "markup"
     suffix: ".html"
